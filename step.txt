@@ -1,0 +1,11 @@
+git init
+
+git remote add origin https://github.com/tuquynh1801/DOME_GIT_BC58.git
+
+git add -A
+
+git commit
+lm l ừ đầu
+git init
+git remote add origin .....
+nayc em lm sai 
